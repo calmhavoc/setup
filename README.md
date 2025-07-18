@@ -26,7 +26,6 @@ sudo apt -y install $(xargs -a /tmp/other)
 cat << _EOF > /tmp/common_utilities
 cifs-utils
 gedit
-open-vm-tools-desktop 
 shotwell
 smbclient
 vim
