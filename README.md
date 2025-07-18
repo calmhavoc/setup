@@ -7,7 +7,7 @@ dialog
 terminator
 jq
 maven
-openjdk-11-jdk
+default-jdk
 debhelper
 devscripts
 xmlstarlet
